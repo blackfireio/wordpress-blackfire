@@ -1,0 +1,1 @@
+# WordPress integration with Blackfire
